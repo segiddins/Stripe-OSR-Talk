@@ -1,5 +1,5 @@
 # [fit] CocoaPods Dependency Resolution:
-# [fit] Introducing Molinillo
+# [fit] Introducing _**Molinillo**_
 <br>
 ## Samuel E. Giddins
 ## @segiddins
@@ -19,7 +19,7 @@
 
 ---
 
-# Molinillo
+# _**Molinillo**_
 ## [fit] Dependency Resolution Gem
 
 ![left](image/mexican-molinillo.jpg)
@@ -30,7 +30,7 @@
 
 ---
 
-## The Podspec
+## The *Podspec*
 
 ```ruby
 Pod::Spec.new do |s|
@@ -43,7 +43,7 @@ end
 
 ---
 
-## The Podfile
+## The *Podfile*
 
 ```
 source 'https://github.com/CocoaPods/Specs'
@@ -69,14 +69,17 @@ pod 'SEGModules', git: 'https://github.com/segiddins/SEGModules.git'
 
 ---
 
-### Backtracking
+### The Algorithm
 
-- CSP
+- Constrainst Solving Problem
+- Backtracking
 - Forward Checking
+
+^ forward checking = stop as soon as you hit a dead end (dont color in the rest of the picture)
 
 ---
 
-### Stack of States
+### Stack of __States__
 ### And :loop:
 
 ---
@@ -91,16 +94,16 @@ pod 'SEGModules', git: 'https://github.com/segiddins/SEGModules.git'
 
 ---
 
-### Yes => move on
-### No => unwind for conflict
+### Yes *=>* move on
+### No *=>* unwind for conflict
 
 ---
 
-### Stop when all requirements are activated
+### [fit] Stop when all requirements are activated
 
 ---
 
-### Raise when there are no possibible states left
+### [fit] Raise when there are no possibible states left
 
 ---
 
@@ -179,11 +182,17 @@ Before:
 
 ---
 
-# :cocktail: Stripe :cocktail:
-# :heart:
+### __After:__
+
+it *just works* :grinning:
 
 ---
 
-# Samuel E. Giddins
-## CocoaPods Core Team
-## @segiddins
+# :cocktail: Stripe :cocktail:
+# _:heart:_
+
+---
+
+## [fit] Samuel E. Giddins
+### _CocoaPods_ Core Team
+### @_segiddins_
