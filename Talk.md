@@ -4,18 +4,23 @@
 ## Samuel E. Giddins
 ## @segiddins
 
+^ I'm a core team member
+^ Doing this instead of being a triple major at UChicago for a year
+
 ---
 
 ![](image/cocoapods-white-on-orange.jpg)
 
 ^ The ObjC package manager.
+^ 100,000s of users building the best iOS and Mac apps
+^ Important b/c it allows the community to share code and focus on whatever it is they do best
 
 ---
 
 # Releases
 ## [fit] 0.34.0.rc1, 0.34.0, 0.34.1, 0.34.2, 0.34.3, 0.34.4
 
-^ Special thanks to Fabio, Alloy and Kyle and the rest of the Core team for making these releases possible
+^ Special thanks to Fabio, Alloy and Kyle and the rest of the Core team for making these releases possible (and doing most of the hard work)
 
 ---
 
@@ -67,6 +72,9 @@ pod 'SEGModules', git: 'https://github.com/segiddins/SEGModules.git'
 - SpecificationProvider
 - UI
 
+^ SP translates client-side domain knowledge into answers for Molinillo
+^ UI prints out pretty dots every second
+
 ---
 
 ### The Algorithm
@@ -76,6 +84,7 @@ pod 'SEGModules', git: 'https://github.com/segiddins/SEGModules.git'
 - Forward Checking
 
 ^ forward checking = stop as soon as you hit a dead end (dont color in the rest of the picture)
+^ Hard CSP because the sets of constraints are dynamic -> no easy graph theory answer 😞
 
 ---
 
@@ -185,6 +194,9 @@ Before:
 ### __After:__
 
 it *just works* :grinning:
+
+^ This means we can let computers do what they're best at
+^ Less need for manual intervention
 
 ---
 
