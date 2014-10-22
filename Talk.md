@@ -1,8 +1,8 @@
-# [fit] CocoaPods Dependency Resolution:
+# [fit] _CocoaPods_ Dependency Resolution:
 # [fit] Introducing _**Molinillo**_
 <br>
 ## Samuel E. Giddins
-## @segiddins
+## @_segiddins_
 
 ^ I'm a core team member
 ^ Doing this instead of being a triple major at UChicago for a year
@@ -18,7 +18,7 @@
 ---
 
 # Releases
-## [fit] 0.34.0.rc1, 0.34.0, 0.34.1, 0.34.2, 0.34.3, 0.34.4
+## [fit] 0.34.0.rc1, 0.34.0, 0.34.1, 0.34.2, 0.34.4
 
 ^ Special thanks to Fabio, Alloy and Kyle and the rest of the Core team for making these releases possible (and doing most of the hard work)
 
